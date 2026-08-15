@@ -12,7 +12,7 @@ var collection, maxElems = 10, aggFunc;
 
 const LOG_ENABLE = false;
 
-console.log(colors.bgYellow.black('The 29 Game.\nCopyright Arindam Ray, 2020.'));
+console.log(colors.bgYellow.black('The 29 Game.\nCopyright NAJMUS SAKIB, 2026.'));
 
 mongoClient.connect(mURI, { useNewUrlParser: true, useUnifiedTopology: true }, (err, client) => {
 	if (err)
